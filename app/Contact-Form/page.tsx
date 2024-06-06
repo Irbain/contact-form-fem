@@ -45,7 +45,7 @@ const page = () => {
         <button
           type="button"
           className="bg-green-600 h-8 text-white rounded-md 
-        active:bg-red
+          active:bg-green-900
         "
         >
           Submit

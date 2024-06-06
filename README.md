@@ -41,12 +41,12 @@ The users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./public/design/desktop-design.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://irbain.github.io/Alx)
+- Live Site URL: [Add live site URL here](https://irbain.github.io/Alx)
 
 ## My process
 
@@ -63,20 +63,12 @@ The users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
+Sharpening some skills and getting more experienced with some frameworks as Nextjsm Formik and Yup are the most major learning skills i learned while making this project.
+Coding gets more easier and code lines productions gets faster each time i keep practicing and sharpening my skills.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+I am planing to get in touch with some more complicated forms, and get comfortable handeling too much traffic and request on my page.
 
 ## Author
 
