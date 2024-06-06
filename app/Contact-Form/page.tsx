@@ -10,7 +10,7 @@ const page = () => {
         className="bg-white w-1/2 h-auto p-[3%]
       flex flex-col justify-evenly px-5 rounded-md"
       >
-        <div className="flex justify-between gap-3 max-[500px]:flex-col">
+        {/* <div className="flex justify-between gap-3 max-[500px]:flex-col">
           <Input label="First Name" id="" required={true} />
           <Input label="Last Name" id="" required={true} />
         </div>
@@ -19,7 +19,7 @@ const page = () => {
         <label className="w-full h-full">
           <Field className="peer" type="radio" name="gems" value="2500" />
           <div className="peer-checked:bg-gold">hi</div>
-        </label>
+        </label> */}
 
         {/* <div className="flex justify-between">
           <div

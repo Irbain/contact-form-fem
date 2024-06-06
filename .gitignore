@@ -34,3 +34,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+
+*.sketch
+*.fig
+
+*.xd
+
+.DS_Store
+.prettierignore
