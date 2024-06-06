@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* input[type="radio"]:checked + label {
+  background: hsl(148, 38%, 91%);
+  border-color: hsl(169, 82%, 27%);
+} */
