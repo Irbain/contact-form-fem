@@ -1,14 +1,12 @@
 import React from "react";
 
 interface props {
-  id: string;
   label: string;
-  cn: string;
   required: boolean;
   className: string;
 }
 
-const Input = ({ id, label, required, className }: props) => {
+const Input = ({ label, required, className }: props) => {
   return (
     <div className="flex flex-col">
       <label

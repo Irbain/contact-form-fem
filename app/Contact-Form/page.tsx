@@ -10,16 +10,16 @@ const page = () => {
         className="bg-white w-1/2 h-auto p-[3%]
       flex flex-col justify-evenly px-5 rounded-md"
       >
-        {/* <div className="flex justify-between gap-3 max-[500px]:flex-col">
-          <Input label="First Name" id="" required={true} />
-          <Input label="Last Name" id="" required={true} />
+        <div className="flex justify-between gap-3 max-[500px]:flex-col">
+          <Input label="First Name" required={true} className="" />
+          <Input label="Last Name" required={true} className="" />
         </div>
-        <Input label="Email Address" text="" required={true} />
+        <Input label="Email Address" className="" required={true} />
 
         <label className="w-full h-full">
           <Field className="peer" type="radio" name="gems" value="2500" />
           <div className="peer-checked:bg-gold">hi</div>
-        </label> */}
+        </label>
 
         {/* <div className="flex justify-between">
           <div
@@ -35,7 +35,7 @@ const page = () => {
             <label htmlFor="option2">Inquiry</label>
           </div>
         </div> */}
-        <Input label="Message" text="" required={true} />
+        <Input label="Message" required={true} className="" />
         <Checkbox
           content="I consent to being contacted
         by the team"
