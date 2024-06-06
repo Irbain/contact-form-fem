@@ -16,10 +16,10 @@ const page = () => {
         </div>
         <Input label="Email Address" className="" required={true} />
 
-        <label className="w-full h-full">
+        {/* <label className="w-full h-full">
           <Field className="peer" type="radio" name="gems" value="2500" />
           <div className="peer-checked:bg-gold">hi</div>
-        </label>
+        </label> */}
 
         {/* <div className="flex justify-between">
           <div

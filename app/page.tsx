@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { useRouter } from "next/navigation";
 
 export default function Home() {
@@ -19,7 +18,7 @@ export default function Home() {
           <div>And Create Some Awseome Applications For Your Future Career</div>
           <button
             type="button"
-            onClick={() => router.push("/Contact-Form")}
+            onClick={() => router.replace("/Contact-Form")}
             className="bg-green-600 h-8 text-white rounded-md 
         active:bg-red
         "
